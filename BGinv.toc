@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 11305
 ## Title: BG Inv
 ## Author: Esentiel
 ## Version: 0.1
