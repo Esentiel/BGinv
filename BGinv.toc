@@ -1,4 +1,5 @@
-## Interface: 11305
+## Interface: 11306
+#11306 = 1.13.6 classic
 ## Title: BG Inv
 ## Author: Esentiel
 ## Version: 0.1
